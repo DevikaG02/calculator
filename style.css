@@ -1,0 +1,15 @@
+.btn {
+    border:  solid 3px;
+    border-radius: 7px;
+    grid-template-columns: (4,1fr);
+    grid-template-rows: (4,1fr);
+    font-size: 1.3rem;
+    width: 2.75rem;
+    /* padding: .45rem; */
+    padding-right: 0px;
+    justify-content: space-evenly;
+    background-color: rgb(255, 255, 255);
+}
+.btn1{
+    width: 5.6rem;
+}
